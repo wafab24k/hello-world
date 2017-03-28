@@ -1,3 +1,3 @@
 # hello-world
-my first repository in Github
+my first repository in Github.
 this branch contains new changes.
